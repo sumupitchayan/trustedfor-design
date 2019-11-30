@@ -8,4 +8,4 @@ We imagined what the platform might look like on a mobile device, and used itera
 **Figma Prototype:**
 https://www.figma.com/proto/3kH2JN8X0w1YDtpEq2Fpwv/Iterative-Design?node-id=185%3A60&scaling=scale-down
 
-**Open Writeup.pdf for full project description.**
+**Read Writeup.pdf for full project description.**
